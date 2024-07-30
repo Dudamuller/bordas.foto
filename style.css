@@ -1,0 +1,9 @@
+body{
+    background-color: white;
+}
+img{
+    border-radius: 8px;
+}
+.img2{
+    border-radius: 50%;
+}
